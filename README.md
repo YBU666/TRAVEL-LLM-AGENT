@@ -66,5 +66,18 @@ The application will provide:
 - LLM: Groq (Mixtral-8x7b)
 - Weather: OpenWeather API
 - Hotels: RapidAPI Hotels API
-- Flights: RapidAPI Skyscanner API 
+- Flights: RapidAPI Skyscanner API
+
+![images](https://github.com/YBU666/TRAVEL-LLM-AGENT/blob/main/images/t1.png?raw=true)
+
+![images](https://github.com/YBU666/TRAVEL-LLM-AGENT/blob/main/images/t2.png?raw=true)
+
+![images](https://github.com/YBU666/TRAVEL-LLM-AGENT/blob/main/images/t3.png?raw=true)
+
+![images](https://github.com/YBU666/TRAVEL-LLM-AGENT/blob/main/images/t4.png?raw=true)
+
+![images](https://github.com/YBU666/TRAVEL-LLM-AGENT/blob/main/images/t5.png?raw=true)
+
+
+
 
